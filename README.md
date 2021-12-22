@@ -1,3 +1,15 @@
+# Oncleben31's custom configuration for ender 3 Pro (Creality 4.2.2 board)
+
+This repository is to track and share my customization of the Marlin Firmware for my Ender 3 Pro 3D printer.
+Main features activated:
+ - Manual Mesh leveling
+ - Manual corner leveling
+ - Custom command to reset the mainboard
+ - Custom command to shutdown the Pi hosting Octoprint
+ - Host commands acitvation
+
+ Inspired by videos from @teachingtechYT
+
 # Configurations
 Pre-tested Configurations for Marlin Firmware 2.0.9.2
 
