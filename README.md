@@ -9,6 +9,7 @@ Main features activated:
  - Custom command to shutdown the Pi hosting Octoprint
  - Host commands acitvation for synchronization with octoprint
  - Enable the Binary File Transfer protocol (to be used with [Firmware Updater Octoprint plugin](https://github.com/OctoPrint/OctoPrint-FirmwareUpdater))
+ - Enabled the CUSTOM_FIRMWARE_UPLOAD to be able to use the build environment "STM32F10RE_creality_xfer (512K)" (following the instruction of Le Chat by Mistral)
 
  Inspired by videos from @teachingtechYT
 
